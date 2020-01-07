@@ -17,7 +17,7 @@
   "author": "Leonardo Piccioni de Almeida",
   "license": "ISC",
   "dependencies": {
-    "sanitize-html": "^1.17.0"
+    "sanitize-html": "^1.20.1"
   },
   "devDependencies": {
     "webpack": "^4.8.3",
